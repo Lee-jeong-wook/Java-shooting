@@ -76,7 +76,7 @@ public class FrameMake  extends JFrame implements KeyListener, Runnable{
 		//시작 명령 처리 부분
 		start();
 		//프레임의 이름을 설정
-		setTitle("슈팅게임 by 박민규");
+		setTitle("슈팅게임 by 이정욱");
 		//프레임의 크기를 위해
 		setSize(width, height);
 		//화면의 중앙에 프레임을 위치하기 위한 동작
